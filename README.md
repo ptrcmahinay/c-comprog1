@@ -33,28 +33,28 @@ Welcome to the repository for my C programming assignments/program during my fir
 1. **Dice Rolling:**
 - The game features a realistic simulation of two dice rolls.
 - Random numbers between 1 and 6 are generated for each die, contributing to the excitement of unpredictability.
-1. **Betting System:**
+2. **Betting System:**
 - Players are prompted to place bets before each round, introducing an element of strategy.
 - The initial roll determines whether the player wins, loses, or progresses to subsequent rolls based on the sum of the dice.
-1. **Visual Enhancements:**
+3. **Visual Enhancements:**
 - ASCII art displays for winning and losing scenarios (displayWon and displayLose) add a visual flair to the game, providing a satisfying experience for players.
-1. **Rules Explanation:**
+4. **Rules Explanation:**
 - The rules function offers clear and concise explanations of the game rules.
 - Players learn about winning conditions, the significance of different rolls, and the overall objective of the game.
 
-1. **Play Again Feature:**
+5. **Play Again Feature:**
 - A playAgain_Lose_No function invites players to continue the excitement by playing again after a losing round.
 
-1. **Roll Function:**
+6. **Roll Function:**
 - The roll function simulates subsequent rolls if the initial total doesn't decide the outcome, creating a dynamic and evolving gameplay experience.
 
-1. **Aesthetics:**
+7. **Aesthetics:**
 - Color functions (red, green, yellow, purple, cyan, reset) are employed to enhance the visual appeal of console text, contributing to an aesthetically pleasing interface.
 
-1. **Sound Effects:**
+8. **Sound Effects:**
 - The Beep function generates sound effects, adding an auditory dimension to critical events in the game and enhancing the overall gaming experience.
 
-1. **Engaging Entry Point:**
+9. **Engaging Entry Point:**
 - The main function serves as the entry point, providing an introduction to the game.
 - It displays the game title, introduces developers, and offers options to play, view rules, or exit.
   </details>
