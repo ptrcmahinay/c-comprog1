@@ -4,14 +4,14 @@ Welcome to the repository for my C programming assignments/program during my fir
 
 ## Assignments
 
-1. **[Assignment 1](activities/act1)** - Declaring and printing variables.
-2. **[Assignment 2](activities/act2)** - Understanding and implementing `if-else` statements.
-3. **[Assignment 3](activities/act3)** - Taking user inputs using `scanf`.
-4. **[Assignment 4](activities/act4)** - Creating an inverted right-angled triangle pattern.
-5. **[Assignment 5](activities/act5)** - Generating a simple right-angled triangle pattern.
-6. **[Assignment 6](activities/act6)** - Implementing a password checker program.
-7. **[Assignment 7](activities/act7)** - Creating a 10x10 matrix of random numbers.
-8. **[Assignment 8](activities/act8)** - Generating a Multiplication Table.
+1. **[Assignment 1](activities/act1.c)** - Declaring and printing variables.
+2. **[Assignment 2](activities/act2.c)** - Understanding and implementing `if-else` statements.
+3. **[Assignment 3](activities/act3.c)** - Taking user inputs using `scanf`.
+4. **[Assignment 4](activities/act4.c)** - Creating an inverted right-angled triangle pattern.
+5. **[Assignment 5](activities/act5.c)** - Generating a simple right-angled triangle pattern.
+6. **[Assignment 6](activities/act6.c)** - Implementing a password checker program.
+7. **[Assignment 7](activities/act7.c)** - Creating a 10x10 matrix of random numbers.
+8. **[Assignment 8](activities/act8.c)** - Generating a Multiplication Table.
 
 ## FInal Projects
 ### Project 1: [Dice Roll Betting System](Projects/dicebetting.c)
@@ -26,7 +26,7 @@ Welcome to the repository for my C programming assignments/program during my fir
   - Eloisa Decio
   - Patricia Ann C. Mahinay
 - **Description:** The "LUCK n ROLL" game is a thrilling dice-based experience crafted in C. It combines the simplicity of rolling dice with an engaging betting system, creating an interactive console game for players.
-- 
+  
 <details>
 <summary>Key Features</summary>
 
